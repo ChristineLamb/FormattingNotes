@@ -12,3 +12,10 @@ git status
 git add
 git commit
 ```
+To display triple backticks in a fenced code block, wrap them inside quadruple backticks.
+
+````
+```
+Look! You can see my backticks.
+```
+````
